@@ -1,0 +1,17 @@
+D:\CodeAcademy\Serialized, Deserialized\Serialized, Deserialized\bin\Debug\net6.0\Serialized, Deserialized.exe
+D:\CodeAcademy\Serialized, Deserialized\Serialized, Deserialized\bin\Debug\net6.0\Serialized, Deserialized.deps.json
+D:\CodeAcademy\Serialized, Deserialized\Serialized, Deserialized\bin\Debug\net6.0\Serialized, Deserialized.runtimeconfig.json
+D:\CodeAcademy\Serialized, Deserialized\Serialized, Deserialized\bin\Debug\net6.0\Serialized, Deserialized.dll
+D:\CodeAcademy\Serialized, Deserialized\Serialized, Deserialized\bin\Debug\net6.0\Serialized, Deserialized.pdb
+D:\CodeAcademy\Serialized, Deserialized\Serialized, Deserialized\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\CodeAcademy\Serialized, Deserialized\Serialized, Deserialized\obj\Debug\net6.0\Serialized, Deserialized.csproj.AssemblyReference.cache
+D:\CodeAcademy\Serialized, Deserialized\Serialized, Deserialized\obj\Debug\net6.0\Serialized, Deserialized.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeAcademy\Serialized, Deserialized\Serialized, Deserialized\obj\Debug\net6.0\Serialized, Deserialized.AssemblyInfoInputs.cache
+D:\CodeAcademy\Serialized, Deserialized\Serialized, Deserialized\obj\Debug\net6.0\Serialized, Deserialized.AssemblyInfo.cs
+D:\CodeAcademy\Serialized, Deserialized\Serialized, Deserialized\obj\Debug\net6.0\Serialized, Deserialized.csproj.CoreCompileInputs.cache
+D:\CodeAcademy\Serialized, Deserialized\Serialized, Deserialized\obj\Debug\net6.0\Serializ.F48D5F06.Up2Date
+D:\CodeAcademy\Serialized, Deserialized\Serialized, Deserialized\obj\Debug\net6.0\Serialized, Deserialized.dll
+D:\CodeAcademy\Serialized, Deserialized\Serialized, Deserialized\obj\Debug\net6.0\refint\Serialized, Deserialized.dll
+D:\CodeAcademy\Serialized, Deserialized\Serialized, Deserialized\obj\Debug\net6.0\Serialized, Deserialized.pdb
+D:\CodeAcademy\Serialized, Deserialized\Serialized, Deserialized\obj\Debug\net6.0\Serialized, Deserialized.genruntimeconfig.cache
+D:\CodeAcademy\Serialized, Deserialized\Serialized, Deserialized\obj\Debug\net6.0\ref\Serialized, Deserialized.dll

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CodeAcademy\\Serialized, Deserialized\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D74E018-2F0D-4887-8754-8B79BE5D8137}|Serialized, Deserialized\\Serialized, Deserialized.csproj|d:\\codeacademy\\serialized, deserialized\\serialized, deserialized\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D74E018-2F0D-4887-8754-8B79BE5D8137}|Serialized, Deserialized\\Serialized, Deserialized.csproj|solutionrelative:serialized, deserialized\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D74E018-2F0D-4887-8754-8B79BE5D8137}|Serialized, Deserialized\\Serialized, Deserialized.csproj|d:\\codeacademy\\serialized, deserialized\\serialized, deserialized\\names.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6D74E018-2F0D-4887-8754-8B79BE5D8137}|Serialized, Deserialized\\Serialized, Deserialized.csproj|solutionrelative:serialized, deserialized\\names.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Names.json",
+              "DocumentMoniker": "D:\\CodeAcademy\\Serialized, Deserialized\\Serialized, Deserialized\\Names.json",
+              "RelativeDocumentMoniker": "Serialized, Deserialized\\Names.json",
+              "ToolTip": "D:\\CodeAcademy\\Serialized, Deserialized\\Serialized, Deserialized\\Names.json",
+              "RelativeToolTip": "Serialized, Deserialized\\Names.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-30T19:06:18.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CodeAcademy\\Serialized, Deserialized\\Serialized, Deserialized\\Program.cs",
+              "RelativeDocumentMoniker": "Serialized, Deserialized\\Program.cs",
+              "ToolTip": "D:\\CodeAcademy\\Serialized, Deserialized\\Serialized, Deserialized\\Program.cs*",
+              "RelativeToolTip": "Serialized, Deserialized\\Program.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:01:12.432Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
